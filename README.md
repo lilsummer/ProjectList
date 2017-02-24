@@ -1,6 +1,3 @@
-# ProjectList
-
-
 # List of projects
 
 This lists data analytics projects that I've done. Both research projects and side projects are included.
